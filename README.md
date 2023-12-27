@@ -2,6 +2,8 @@
 
 Variation of the [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) from Spring Guides, focusing on Kotlin-specific behaviours and idiosyncrasies.
 
+> For a fuller guide on Spring Boot 3 with Kotlin using a datastore, service layer, and HTTP controller, see my [4-part guide on Medium](https://medium.com/@dpeachesdev/exploring-springboot3-with-kotlin-by-building-an-ecommerce-server-part-1-7c18e3241a97)
+
 # What we will build
 
 A HTTP service that will accept GET requests at http://localhost/8080/greeting.
@@ -90,3 +92,5 @@ or use the `?name=` query param by hitting http://localhost:8080/greeting?name=J
 # Summary
 
 Congrats, you have created a basic HTTP endpoint using Spring and Kotlin! For any extra insight, or usage with Java, see the original [guide by Spring](https://spring.io/guides/gs/rest-service/)
+
+For a fuller guide on Spring Boot 3 with Kotlin using a datastore, service layer, and HTTP controller, see my [4-part guide on Medium](https://medium.com/@dpeachesdev/exploring-springboot3-with-kotlin-by-building-an-ecommerce-server-part-1-7c18e3241a97)
